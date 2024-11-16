@@ -11,10 +11,14 @@
             "id": "9c25dd17b80ceb47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/TypeScript tutorial with Visual Studio Code.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TypeScript tutorial with Visual Studio Code"
             }
           }
         ]
@@ -160,7 +164,10 @@
   },
   "active": "dfebb3a6bbf00247",
   "lastOpenFiles": [
-    "Bypassing Shell Restrictions.md",
+    "z_Resources/Websites.md",
+    "Clippings/TypeScript tutorial with Visual Studio Code.md",
+    "Clippings",
+    "Other Notes/Bypassing Shell Restrictions.md",
     "z_References",
     "z_Resources",
     "Other Notes/What Is TypeScript.md",
